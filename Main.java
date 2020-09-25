@@ -13,7 +13,7 @@ class Main {
      else
      {
 
-       System.out.println();
+       System.out.println("");
      }
   }
 }
